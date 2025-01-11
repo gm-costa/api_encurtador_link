@@ -10,12 +10,11 @@
 
 - <a href='#pré-requesitos'>Pré-requisitos</a>
 - <a href='#funcionalidades'>Funcionalidades</a>
-- <a href='#screenshots'>Screenshots</a>
 - <a href='#como-executar-o-projeto'>Como executar o projeto</a>
 
 ### Pré-requisitos
 
-    Django, pillow e python-decouple.
+    Django, django-ninja, pillow, qrcode e python-decouple.
 
 ### Funcionalidades
 
@@ -23,11 +22,7 @@
 - Atualizar os links
 - Redirecionamento automático
 - Estatísticas
-- QRCode
-
-### Screenshots
-
-
+- Gerar QRCode
 
 ### Como executar o projeto
 
